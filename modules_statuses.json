@@ -1,0 +1,18 @@
+{
+    "Core": true,
+    "Apps": true,
+    "Authentication": true,
+    "Authorization": true,
+    "DeviceToken": true,
+    "Page": true,
+    "Setting": true,
+    "Transaction": true,
+    "User": true,
+    "Log": true,
+    "Area": true,
+    "Party": true,
+    "Contact": true,
+    "Coupon": true,
+    "Package": true,
+    "Notification": true
+}
